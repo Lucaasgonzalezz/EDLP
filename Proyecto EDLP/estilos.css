@@ -1,0 +1,16 @@
+body { background-color:  grey;}
+
+.parrafoazul { color: blue;}
+
+.parrafoblanco { color: white; text-align: right;}
+
+.titulos {color black; background-color: white}
+
+body{ background-image: url(empanadas-criollas-1.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position: center;}
+
+header{text-align: center; background-color: red ;width: 99.5%}
+
+.nav-menu{background: red}
